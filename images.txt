@@ -1,0 +1,1 @@
+gvenzl/oracle-xe:18-slim-faststart
