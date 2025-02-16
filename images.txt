@@ -1,4 +1,1 @@
-gvenzl/oracle-xe:18-slim-faststart
-oceanbase/oceanbase-ce:latest
-ghcr.io/open-webui/open-webui:ollama
-searxng/searxng:latest
+infiniflow/ragflow:v0.16.0
