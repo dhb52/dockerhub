@@ -4,3 +4,4 @@ langgenius/dify-plugin-daemon:0.0.1-local
 ubuntu/squid:latest
 postgres:15-alpine
 semitechnologies/weaviate:1.19.0
+postgres:15-alpine
