@@ -1,5 +1,5 @@
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
+langgenius/dify-api:main
+langgenius/dify-web:main
 langgenius/dify-plugin-daemon:0.0.1-local
 ubuntu/squid:latest
 postgres:15-alpine
